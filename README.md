@@ -1,10 +1,8 @@
-- 👋 Hi, I’m @shakthivarsha
-- 👀 I’m interested in creating websites
-- 🌱 I’m currently learning web development
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+👋 Hi, I’m Shakthivarsha
+👀 I’m passionate about building interactive and user-friendly websites
+🌱 I’m currently learning Full Stack Web Development using React.js and Spring Boot
+💞️ I’m looking to collaborate on innovative web projects and AI-integrated platforms like my project Tranquil
+😄 Pronouns: She/Her
 
 <!---
 shasha-23/shasha-23 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
